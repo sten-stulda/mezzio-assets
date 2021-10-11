@@ -1,3 +1,3 @@
 # mezzio-assets
 
-MODULE "Assets"
+MODULE "Assets" + SQL database
