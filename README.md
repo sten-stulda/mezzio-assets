@@ -1,1 +1,3 @@
 # mezzio-assets
+
+MODULE "Assets"
